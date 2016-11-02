@@ -5,8 +5,7 @@ sjkdjfkjsdf1:~
 <<<<<<< HEAD
 this is a test add new line
 
-
-
+how to do it
 
 
 
